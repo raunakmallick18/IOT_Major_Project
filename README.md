@@ -39,6 +39,9 @@ Welcome to the Smart Door Lock Security System project repository! This open-sou
 # Circuit Diagram:
 ![GitHub Logo](https://github.com/raunakmallick18/IOT_Major_Project/blob/main/Circuit%20Diagram.png)
 
+# Benefits:
+The "IoT based RFID Smart Door Lock System" offers a secure, convenient, and intelligent solution for modern door access control. Its integration of IoT, RFID, and the Blynk app provides users with enhanced security, remote management, and peace of mind.
+
 # Contributions:
 We welcome contributions from the open-source community to make this project even better. Whether you're a developer, security enthusiast, or IoT expert, your insights and enhancements can help create a more robust and feature-rich smart door lock security system.
 
