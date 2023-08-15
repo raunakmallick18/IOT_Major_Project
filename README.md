@@ -16,6 +16,18 @@ Welcome to the Smart Door Lock Security System project repository! This open-sou
 - **Secure Authentication:** Implement secure authentication mechanisms to ensure only authorized users can control the door lock.
 - **Low Power Consumption:** The NodeMCU ESP8266 is designed for efficiency, ensuring optimal performance while minimizing energy usage.
 
+# Software Requirements:
+- Blynk Mobile Application, Blynk Web Dashboard
+- Arduino IDE
+
+# Hardware Requirements:
+- NodeMCU ESP8266 WiFi Module
+- RFID MFRC522
+- Single Channel 5V Relay Module
+- 12V Solenoid Lock
+- LM2596 Buck Converter
+- Buzzer Module
+  
 # How to Get Started:
 1. Clone or download the repository to your local machine.
 2. Set up the NodeMCU ESP8266 with the required components as outlined in the documentation.
