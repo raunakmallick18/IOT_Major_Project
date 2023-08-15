@@ -36,6 +36,9 @@ Welcome to the Smart Door Lock Security System project repository! This open-sou
 5. Upload the code to your NodeMCU and start testing the system.
 6. Explore and customize the code to add extra functionalities and improve security.
 
+# Circuit Diagram:
+![GitHub Logo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/path/to/your/image.png)
+
 # Contributions:
 We welcome contributions from the open-source community to make this project even better. Whether you're a developer, security enthusiast, or IoT expert, your insights and enhancements can help create a more robust and feature-rich smart door lock security system.
 
