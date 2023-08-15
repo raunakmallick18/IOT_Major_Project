@@ -11,7 +11,7 @@ Welcome to the Smart Door Lock Security System project repository! This open-sou
 
 # Key Features:
 - **Remote Locking and Unlocking:** Control your door lock remotely from anywhere (WiFi accessible area) using the Blynk app.
-- **Real-time Status Monitoring:** Receive instant updates on the status of your door, whether it's locked, unlocked, or tampered with.
+- **Real-time Notifications:** The system sends real-time notifications to the Blynk app whenever the door is locked, unlocked, or when an unauthorized attempt is detected.
 - **Customizable Alerts:** Configure alerts to notify you of specific events, such as failed unlock attempts or unexpected door openings.
 - **Secure Authentication:** Implement secure authentication mechanisms to ensure only authorized users can control the door lock.
 - **Low Power Consumption:** The NodeMCU ESP8266 is designed for efficiency, ensuring optimal performance while minimizing energy usage.
