@@ -45,4 +45,4 @@ The "IoT based RFID Smart Door Lock System" offers a secure, convenient, and int
 # Contributions:
 We welcome contributions from the open-source community to make this project even better. Whether you're a developer, security enthusiast, or IoT expert, your insights and enhancements can help create a more robust and feature-rich smart door lock security system.
 
-Join us in revolutionizing door lock security with IoT and experience the convenience and peace of mind that our Smart Door Lock Security System brings. Let's work together to secure the future!
+*Join us in revolutionizing door lock security with IoT and experience the convenience and peace of mind that our Smart Door Lock Security System brings. Let's work together to secure the future!*
