@@ -1,4 +1,4 @@
-# Project Title: IoT based Smart Door Lock Security System with NodeMCU ESP8266 and Blynk App
+# Project Title: IoT based RFID Smart Door Lock Security System using NodeMCU ESP8266 and Blynk App
 
 # Repository Description:
 Welcome to the Smart Door Lock Security System project repository! This open-source project focuses on enhancing traditional door locking systems using the power of IoT (Internet of Things) technology. By combining the NodeMCU ESP8266 microcontroller with the Blynk app platform, we have created a robust and user-friendly solution that provides advanced security features for your doors.
